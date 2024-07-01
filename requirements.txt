@@ -1,0 +1,8 @@
+numpy==2.0.0
+pandas==2.2.2
+streamlit
+scikit-learn
+pip==24.0
+matplotlib==3.9.0
+xlsxwriter==3.2.0
+streamlit-option-menu
